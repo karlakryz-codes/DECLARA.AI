@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/karlakryz-codes/DECLARA.AI/blob/main/banner-declaraai.png.png?raw=true" alt="DECLARA.AI Banner" width="100%">
+  <img src="https://github.com/karlakryz-codes/DECLARA.AI/blob/main/banner-declaraai.png.png?raw=true" alt="DECLARA.AI Banner" width="600px">
 </p>
-
 
 
 * 📄 DECLARA.AI: Agregador de Dados Fiscais (Excel)
