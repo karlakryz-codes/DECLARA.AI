@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte de um desafio prático ou laboratório 
 | Recurso Visual | Descrição | Status no Projeto |
 | :--- | :--- | :--- |
 | **Menu de Navegação Lateral** | Botões de alto contraste (`TITULAR`, `INFORMES`, `NOTAS`) configurados com **hiperlinks** para transições rápidas entre as seções. | ✅ Implementado |
-| **Formulário Estruturado** | Layout limpo para preenchimento de dados pessoais (`1. DADOS DO TITULAR`) e financeiros. | ✅ Implementado |
+| **Formulário Formulário** | Layout limpo para preenchimento de dados pessoais (`1. DADOS DO TITULAR`) e financeiros. | ✅ Implementado |
 | **Agregação de Informes** | Seções para resumo de saldos por banco (`2. INFORMES`) e detalhamento de entradas mensais (`3. NOTAS`). | ✅ Implementado |
 | **Links de Ação** | Botões de navegação (`< ANTERIOR`, `PRÓXIMO >`) e ícones como o **LinkedIn** para conexão e acesso rápido a recursos externos. | ✅ Implementado |
 | **Validação de Dados** | Uso de **Validação de Dados** e **Formatação Personalizada** para garantir a precisão de CPFs, telefones e valores monetários. | ✅ Implementado |
