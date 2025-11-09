@@ -1,81 +1,56 @@
-📄 DECLARA.AI — Agregador de Dados Fiscais (Excel)
+## 📄 DECLARA.AI: Agregador de Dados Fiscais (Excel)
 
-DECLARA.AI é uma poderosa ferramenta de gestão de dados fiscais, desenvolvida integralmente no Microsoft Excel.
-Ela foi criada para simplificar, automatizar e organizar a coleta de todas as informações financeiras e patrimoniais necessárias para o preenchimento da sua Declaração de Imposto de Renda Pessoa Física (IRPF).
+Este projeto, **DECLARA.AI**, é uma poderosa ferramenta de gestão de dados fiscais desenvolvida integralmente no **Microsoft Excel**. Foi concebido para simplificar e organizar a coleta de todas as informações financeiras e patrimoniais necessárias para o preenchimento da sua **Declaração de Imposto de Renda Pessoa Física (IRPF)**.
 
-Com uma interface que simula um software real, o projeto transforma o processo de organização fiscal em uma tarefa eficiente, intuitiva e validada.
+A ferramenta transforma o Excel em um sistema inteligente, oferecendo uma interface que simula um software, tornando a organização fiscal eficiente e validada.
 
-🎓 Contexto — Projeto DIO
+---
 
-Este projeto foi desenvolvido no contexto de um laboratório prático da Digital Innovation One (DIO)
-,
-demonstrando o uso de técnicas avançadas de planilhas, validação de dados e design funcional aplicados à construção de soluções reais em Excel.
+### 🎓 Projeto Desenvolvido no Contexto da DIO
 
-✨ Funcionalidades Principais
-💡 Recurso Visual	🧩 Descrição e Benefício	⚙️ Status
-Menu de Navegação Lateral	Botões de alto contraste (TITULAR, INFORMES, NOTAS) com hiperlinks que permitem transições rápidas entre seções, simulando um menu de software interativo.	✅ Implementado
-Formulários Estruturados	Layout limpo e organizado com campos específicos (Ex: NOME, CPF, CÔNJUGE), facilitando a coleta de informações.	✅ Implementado
-Links Externos e Ícones Sociais	Ícones e botões (< ANTERIOR / PRÓXIMO >) conectam seções e recursos externos (ex: LinkedIn).	✅ Implementado
-Validação Visual e de Dados	Aplicação de validação de formatos (CPF, telefone) e formatação personalizada para manter consistência visual.	✅ Implementado
-Agregação de Informes	Tabelas dinâmicas e campos de resumo de valores para controle de rendimentos bancários e notas de entrada.	✅ Implementado
-Estrutura Modular	Módulos numerados (1. DADOS, 2. INFORMES, 3. NOTAS) que guiam o usuário por etapas.	✅ Implementado
-🗄️ Estrutura da Planilha (Guias)
-Guia	Finalidade
-TITULAR	Coleta de dados pessoais (Nome, CPF, Cônjuge etc.)
-INFORMES	Resumo de saldos e rendimentos por banco
-NOTAS	Controle detalhado de receitas e holerites
-BENS & DIREITOS	Registro de patrimônio e bens declarados
-DÍVIDAS & ÔNUS	Controle de débitos e compromissos financeiros
-RESUMO FINAL	Compilado automático de todas as informações inseridas
+Este projeto foi desenvolvido como parte de um desafio prático ou laboratório de conhecimento na **Digital Innovation One (DIO)**, refletindo a aplicação de técnicas avançadas de planilhas e a construção de soluções robustas.
 
-⚙️ Tecnologias e Recursos Utilizados
+### ✨ Funcionalidades em Destaque
 
-🔹 Microsoft Excel
-🔹 Hiperlinks e Formas: botões interativos e navegação entre abas
-🔹 Validação de Dados: controle de formato (CPF, Telefone, Bancos)
-🔹 Formatação Condicional e Personalizada: para números e moeda
-🔹 Fórmulas de Agregação: cálculos automáticos de totais e médias
-🔹 Design de Interface: cores e estilos inspirados em softwares modernos
+| Recurso Visual | Descrição e Benefício | Status no Projeto |
+| :--- | :--- | :--- |
+| **Menu de Navegação Lateral** | Botões de alto contraste (`TITULAR`, `INFORMES`, `NOTAS`) configurados com **hiperlinks** para transições rápidas entre as seções. | ✅ Implementado |
+| **Formulários Estruturados** | Layout limpo para preenchimento de dados pessoais (`1. DADOS DO TITULAR`) e financeiros. | ✅ Implementado |
+| **Agregação de Informes** | Seções para resumo de saldos por banco (`2. INFORMES`) e detalhamento de entradas mensais (`3. NOTAS`). | ✅ Implementado |
+| **Links de Ação** | Botões de navegação (`< ANTERIOR`, `PRÓXIMO >`) e ícones como o **LinkedIn** para conexão e acesso rápido a recursos externos. | ✅ Implementado |
+| **Validação de Dados** | Uso de **Validação de Dados** e **Formatação Personalizada** para garantir a precisão de CPFs, telefones e valores monetários. | ✅ Implementado |
 
-🧭 Como Usar
+---
 
-Baixe o arquivo: DECLARA.AI.xlsx ou DECLARA.AI.xlsm
+### 🗄️ Estrutura da Planilha (Guias Principais)
+
+1.  **TITULAR:** Coleta de dados do contribuinte e dependentes.
+2.  **INFORMES:** Resumo de saldos e rendimentos bancários por instituição.
+3.  **NOTAS:** Tabela detalhada de entradas (Holerites, Freelance, CNPJ) e receitas mensais.
+4.  *(Outras guias essenciais: Bens & Direitos, Dívidas & Ônus, Resumo Final.)*
+
+### ⚙️ Tecnologias Nativas do Excel
+
+O projeto é 100% nativo do Excel e utiliza:
+* **Hiperlinks e Formas** (Para navegação e botões)
+* **Validação de Dados** (Para controle de formato)
+* **Formatação Condicional e Personalizada**
+* **Fórmulas de Agregação** (`SOMA`, etc.)
+
+---
 
 ### ⬇️ Download do Projeto
 
-Clique no link abaixo para baixar a planilha DECLARA.AI:
+Para baixar a planilha DECLARA.AI, acesse o link do repositório no GitHub (ou outra plataforma de compartilhamento).
 
-[**BAIXAR DECLARA.AI (Arquivo Excel)**](**[COLE O LINK PÚBLICO AQUI]**)
+> **Atenção:** Como o arquivo Excel não está hospedado aqui, você deve substituir o texto abaixo pelo link direto para o arquivo `.xlsx` ou `.xlsm`.
 
-Abra no Excel 
+[**BAIXAR DECLARA.AI (Arquivo Excel)**](**[https://github.com/karlakryz-codes/DECLARA.AI/blob/main/DECLARA%20AI.xlsx]**)
 
-Utilize o menu lateral para navegar entre as seções
+### 🤝 Como Contribuir
 
-Preencha os dados conforme indicado em cada módulo
+Sinta-se à vontade para abrir uma *Issue* com sugestões ou enviar um *Pull Request* com melhorias no código Excel.
 
-O sistema gera resumos automáticos e validados para facilitar sua declaração fiscal
+### 📜 Licença
 
-🤝 Contribuições
-
-Sinta-se à vontade para:
-
-Reportar bugs 🐞
-
-Sugerir melhorias visuais 💡
-
-Propor novas funcionalidades 📈
-
-Basta abrir uma issue ou enviar um pull request! 💬
-
-🧾 Licença
-
-Este projeto está sob a licença MIT — veja o arquivo LICENSE
- para mais detalhes.
-
-👩‍💻 Autora
-
-Karla Cristina Almeida da Silva
-📍 Uberlândia - MG, Brasil
-
-
-🌐 GitHub
+[ MIT License]
