@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/karlakryz-codes/DECLARA.AI/blob/main/banner-declaraai.png.png?raw=true" alt="DECLARA.AI Banner" width="400px">
+  <img src="https://github.com/karlakryz-codes/DECLARA.AI/blob/main/banner-declaraai.png.png?raw=true" alt="DECLARA.AI Banner" width="300px">
 </p>
 
 
