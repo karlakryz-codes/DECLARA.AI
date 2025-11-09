@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte de um desafio prático ou laboratório 
 
 ### ✨ Funcionalidades em Destaque
 
-| Recurso Visual | Descrição e Benefício | Status no Projeto |
+| Recurso Visual | Descrição | Status no Projeto |
 | :--- | :--- | :--- |
 | **Menu de Navegação Lateral** | Botões de alto contraste (`TITULAR`, `INFORMES`, `NOTAS`) configurados com **hiperlinks** para transições rápidas entre as seções. | ✅ Implementado |
 | **Formulários Estruturados** | Layout limpo para preenchimento de dados pessoais (`1. DADOS DO TITULAR`) e financeiros. | ✅ Implementado |
@@ -32,7 +32,7 @@ Este projeto foi desenvolvido como parte de um desafio prático ou laboratório 
 1.  **TITULAR:** Coleta de dados do contribuinte e dependentes.
 2.  **INFORMES:** Resumo de saldos e rendimentos bancários por instituição.
 3.  **NOTAS:** Tabela detalhada de entradas (Holerites, Freelance, CNPJ) e receitas mensais.
-4.  
+
 ### ⚙️ Tecnologias
 
 O projeto é 100% nativo do Excel e utiliza:
