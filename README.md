@@ -41,11 +41,9 @@ O projeto é 100% nativo do Excel e utiliza:
 
 ### ⬇️ Download do Projeto
 
-Para baixar a planilha DECLARA.AI, acesse o link do repositório no GitHub (ou outra plataforma de compartilhamento).
+Clique no link abaixo para baixar a planilha **DECLARA.AI** diretamente do repositório:
 
-> **Atenção:** Como o arquivo Excel não está hospedado aqui, você deve substituir o texto abaixo pelo link direto para o arquivo `.xlsx` ou `.xlsm`.
-
-[**BAIXAR DECLARA.AI (Arquivo Excel)**](**[https://github.com/karlakryz-codes/DECLARA.AI/blob/main/DECLARA%20AI.xlsx]**)
+[**BAIXAR DECLARA.AI (Arquivo Excel)**](https://github.com/karlakryz-codes/DECLARA.AI/blob/main/DECLARA%20AI.xlsx)
 
 ### 🤝 Como Contribuir
 
@@ -53,4 +51,4 @@ Sinta-se à vontade para abrir uma *Issue* com sugestões ou enviar um *Pull Req
 
 ### 📜 Licença
 
-[ MIT License]
+[Nome da Licença, ex: MIT License]
