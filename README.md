@@ -1,4 +1,9 @@
-###* 📄 DECLARA.AI: Agregador de Dados Fiscais (Excel)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karlakryz-codes/DECLARA.AI/main/banner-declaraai.png" alt="DECLARA.AI Banner" width="100%">
+</p>
+
+
+* 📄 DECLARA.AI: Agregador de Dados Fiscais (Excel)
 
 Este projeto, **DECLARA.AI**, é uma poderosa ferramenta de gestão de dados fiscais desenvolvida integralmente no **Microsoft Excel**. Foi concebido para simplificar e organizar a coleta de todas as informações financeiras e patrimoniais necessárias para o preenchimento da sua **Declaração de Imposto de Renda Pessoa Física (IRPF)**.
 
